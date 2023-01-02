@@ -1,4 +1,0 @@
-#Sun Nov 27 17:03:49 KST 2022
-base.0=D\:\\Users\\skssk\\MovePixel\\Library\\Bee\\Android\\Prj\\Mono2x\\Gradle\\launcher\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
-path.0=classes.dex
-renamed.0=classes.dex
